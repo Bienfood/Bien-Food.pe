@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BIEN FOOD</title>
+  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbxxSf7UHD6_uCbQwpA4575Q7jwaJ2gdowRQK4bKEPdlZhTgFwR0BGnhrs3oLKOdZA8D/exec?view=client">
+  <script>
+    window.location.replace("https://script.google.com/macros/s/AKfycbxxSf7UHD6_uCbQwpA4575Q7jwaJ2gdowRQK4bKEPdlZhTgFwR0BGnhrs3oLKOdZA8D/exec?view=client");
+  </script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background: #fafafa;
+      color: #333;
+      text-align: center;
+    }
+    a { color: #0a7d3b; }
+  </style>
+</head>
+<body>
+  <p>Redirigiendo a la tienda...<br>
+  Si no pasa nada, <a href="https://script.google.com/macros/s/AKfycbxxSf7UHD6_uCbQwpA4575Q7jwaJ2gdowRQK4bKEPdlZhTgFwR0BGnhrs3oLKOdZA8D/exec?view=client">haz clic aquí</a>.</p>
+</body>
+</html>
